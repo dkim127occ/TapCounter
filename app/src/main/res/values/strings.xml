@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tap Counter</string>
+    <string name="tap_button">TAP ME</string>
+    <string name="reset_warning">Your progress will be erased.</string>
+    <string name="reset_confirm">Yeah, whatever</string>
+    <string name="reset_abort">I\'m having second thoughts</string>
+    <string name="reset_button">Reset</string>
+    <string name="saved_tap_count">savedTapCount</string>
+    <string name="disappoint">Fine, I\'ll keep your score.</string>
+    <string name="approval">Score erased!</string>
+</resources>
